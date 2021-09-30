@@ -1,0 +1,111 @@
+export const robots = [
+  {
+    id: 1,
+    name: "Leanne Graham",
+    username: "Bret",
+    email: "Sincere@april.biz",
+  },
+  {
+    id: 2,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+  },
+  {
+    id: 3,
+    name: "Clementine Bauch",
+    username: "Samantha",
+    email: "Nathan@yesenia.net",
+  },
+  {
+    id: 4,
+    name: "Patricia Lebsack",
+    username: "Karianne",
+    email: "Julianne.OConner@kory.org",
+  },
+  {
+    id: 5,
+    name: "Chelsey Dietrich",
+    username: "Kamren",
+    email: "Lucio_Hettinger@annie.ca",
+  },
+  {
+    id: 6,
+    name: "Mrs. Dennis Schulist",
+    username: "Leopoldo_Corkery",
+    email: "Karley_Dach@jasper.info",
+  },
+  {
+    id: 7,
+    name: "Kurtis Weissnat",
+    username: "Elwyn.Skiles",
+    email: "Telly.Hoeger@billy.biz",
+  },
+  {
+    id: 8,
+    name: "Nicholas Runolfsdottir V",
+    username: "Maxime_Nienow",
+    email: "Sherwood@rosamond.me",
+  },
+  {
+    id: 9,
+    name: "Glenna Reichert",
+    username: "Delphine",
+    email: "Chaim_McDermott@dana.io",
+  },
+  {
+    id: 10,
+    name: "Clementina DuBuque",
+    username: "Moriah.Stanton",
+    email: "Rey.Padberg@karina.biz",
+  },
+  {
+    id: 11,
+    name: "Iver Punayan",
+    username: "iver_punats",
+    email: "DrakeFlakoMorgan@gmail.com",
+  },
+  {
+    id: 12,
+    name: "Ryan Musa",
+    username: "Moriah.Stanton",
+    email: "ryanmusa@gmail.com",
+  },
+  {
+    id: 13,
+    name: "Anne Alipin",
+    username: "Moriah.Stanton",
+    email: "annelovealipin@gmail.com",
+  },
+  {
+    id: 14,
+    name: "Diane Lambojo",
+    username: "Moriah.Stanton",
+    email: "dianeLabJarrie@gmail.com",
+  },
+  {
+    id: 15,
+    name: "Niel Tabar",
+    username: "Moriah.Stanton",
+    email: "nielFreddyBoy@gmail.com",
+  },
+  {
+    id: 16,
+    name: "Christiane Repunte",
+    username: "Moriah.Stanton",
+    email: "bayotko@gmail.com",
+  },
+  {
+    id: 17,
+    name: "Jak BolKak",
+    username: "Moriah.Stanton",
+    email: "BolJak@gmail.com",
+  },
+  {
+    id: 18,
+    name: "Danny J",
+    username: "Moriah.Stanton",
+    email: "DanJerson@gmail.com",
+  },
+  
+];
